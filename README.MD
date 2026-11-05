@@ -83,7 +83,7 @@ The five classification models implemented in this project are:
 | Gaussian Naive Bayes | To be updated | To be updated | To be updated | To be updated | To be updated | To be updated |
 | Support Vector Machine | To be updated | To be updated | To be updated | To be updated | To be updated | To be updated |
 
-*Note: Replace the placeholders with the actual evaluation results from `model_comparison.csv`.*
+
 
 ### Evaluation Metrics
 
